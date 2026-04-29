@@ -1,0 +1,6 @@
+store_id,store_name,borough,street_address,phone_number,open_date,store_status
+1,ABC Foodmart Q1,Queens,"12-01 Astoria Blvd, Astoria, Queens, NY",718-555-2824,2020-02-15,open
+2,ABC Foodmart Q2,Queens,"44-15 Queens Blvd, Sunnyside, Queens, NY",718-555-1409,2020-08-20,open
+3,ABC Foodmart B3,Brooklyn,"212 Bedford Ave, Brooklyn, NY",718-555-5506,2025-01-15,open
+4,ABC Foodmart B4,Brooklyn,"305 Court St, Brooklyn, NY",718-555-5012,2025-04-10,open
+5,ABC Foodmart B5,Brooklyn,"7813 5th Ave, Brooklyn, NY",718-555-4657,2025-07-01,open

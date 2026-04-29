@@ -1,0 +1,151 @@
+product_id,category_id,product_name,brand_name,package_size,unit_of_measure,barcode,is_perishable,product_status,current_unit_price
+1,1,Brooklyn Best Potatoes,Brooklyn Best,5 lb,bag,889984729564,True,seasonal,6.24
+2,2,Brooklyn Best Mozzarella,Brooklyn Best,8 oz,pack,599263022595,True,active,3.76
+3,3,Pure Living Ribeye Steak,Pure Living,2 lb,lb,400947542743,True,active,34.33
+4,4,Pure Living Chocolate Cake,Pure Living,single,each,409248663017,True,seasonal,14.05
+5,5,Queens Choice French Fries,Queens Choice,32 oz,bag,480037352466,True,active,5.9
+6,6,Pure Living Lemonade,Pure Living,59 oz,bottle,364988738014,False,seasonal,4.46
+7,7,Fresh Choice Toothbrush,Fresh Choice,2 pack,pack,917410343160,False,active,4.26
+8,8,Brooklyn Best Olive Oil,Brooklyn Best,32 oz,bottle,142798595086,False,seasonal,14.34
+9,9,Golden Farm Granola Bars,Golden Farm,12 count,box,114847393047,False,active,7.17
+10,10,Golden Farm Crab Cakes,Golden Farm,4 count,pack,961009905968,True,seasonal,14.11
+11,11,Homestyle Sponges,Homestyle,6 count,pack,518903718101,False,active,6.23
+12,12,Value Fresh Mac and Cheese,Value Fresh,12 oz,container,357991902637,True,seasonal,5.98
+13,1,Golden Farm Apples,Golden Farm,2 lb,bag,799050464905,True,active,2.91
+14,2,Classic Kitchen Cream Cheese,Classic Kitchen,8 oz,pack,147368967775,True,active,3.08
+15,3,Prime Goods Ham,Prime Goods,16 oz,pack,366913189856,True,active,9.25
+16,4,Metro Select Cupcakes,Metro Select,6 count,box,186651263082,True,active,8.85
+17,5,Brooklyn Best Frozen Vegetables,Brooklyn Best,12 oz,bag,743870697885,True,active,2.68
+18,6,Brooklyn Best Orange Juice,Brooklyn Best,59 oz,bottle,831241060170,False,active,6.74
+19,7,Golden Farm Facial Tissue,Golden Farm,4 pack,pack,428941115748,False,active,8.09
+20,8,Daily Harvest Tomato Sauce,Daily Harvest,15 oz,can,525199071794,False,active,1.57
+21,9,Value Fresh Potato Chips,Value Fresh,12 oz,bag,425125927992,False,active,5.04
+22,10,Classic Kitchen Mussels,Classic Kitchen,2 lb,lb,918648282301,True,active,14.87
+23,11,Value Fresh Trash Bags,Value Fresh,20 count,box,489991328169,False,active,8.47
+24,12,Homestyle Turkey Sandwich,Homestyle,single,each,811364515897,True,active,8.36
+25,1,Value Fresh Spinach,Value Fresh,5 oz,pack,904725951409,True,active,3.35
+26,2,Market Plus Cheddar Cheese,Market Plus,8 oz,pack,290763133216,True,active,4.96
+27,3,Queens Choice Chicken Wings,Queens Choice,2 lb,lb,379879587162,True,active,12.72
+28,4,Sunrise Bagels,Sunrise,4 count,pack,611595758355,True,active,4.12
+29,5,Pure Living Frozen Berries,Pure Living,24 oz,pack,897473738038,True,seasonal,6.81
+30,6,Fresh Choice Cola,Fresh Choice,20 oz,bottle,689546360500,False,active,2.73
+31,7,Value Fresh Soap,Value Fresh,6 count,pack,217559584131,False,active,5.07
+32,8,Classic Kitchen Pasta,Classic Kitchen,16 oz,box,343138451678,False,active,3.31
+33,9,Homestyle Granola Bars,Homestyle,6 count,box,226307668955,False,active,4.88
+34,10,Brooklyn Best Cod Fillet,Brooklyn Best,1 lb,lb,203577948775,True,active,11.32
+35,11,Homestyle Napkins,Homestyle,250 count,pack,920121345586,False,active,5.66
+36,12,Classic Kitchen Potato Salad,Classic Kitchen,24 oz,container,819041453913,True,active,8.03
+37,1,Fresh Choice Tomatoes,Fresh Choice,each,each,506691658703,True,active,1.1
+38,2,Pure Living Cream Cheese,Pure Living,8 oz,pack,208931907098,True,active,2.61
+39,3,Daily Harvest Chicken Wings,Daily Harvest,1 lb,lb,237302403040,True,active,6.98
+40,4,Fresh Choice Muffins,Fresh Choice,4 count,pack,468451477211,True,active,5.56
+41,5,Golden Farm Frozen Dumplings,Golden Farm,12 oz,bag,941082663172,True,active,6.75
+42,6,Nature Basket Lemonade,Nature Basket,32 oz,bottle,262239677678,False,active,3.04
+43,7,Metro Select Body Wash,Metro Select,12 oz,bottle,377198114684,False,active,6.63
+44,8,Metro Select Peanut Butter,Metro Select,28 oz,jar,490905848547,False,active,5.04
+45,9,Fresh Choice Trail Mix,Fresh Choice,8 oz,bag,912293242733,False,seasonal,6.23
+46,10,Brooklyn Best Fish Fillet,Brooklyn Best,1 lb,lb,498478548963,True,active,10.25
+47,11,Value Fresh Napkins,Value Fresh,250 count,pack,899050168462,False,active,5.41
+48,12,Fresh Choice Roast Beef Slices,Fresh Choice,16 oz,pack,628274907582,True,seasonal,10.05
+49,1,Market Plus Apples,Market Plus,each,each,589238439747,True,active,1.02
+50,2,Golden Farm Skim Milk,Golden Farm,1 gallon,gallon,401189699468,True,active,4.75
+51,3,Brooklyn Best Ribeye Steak,Brooklyn Best,1 lb,lb,763596288927,True,active,18.54
+52,4,Pure Living Cookies,Pure Living,8 oz,box,815776541878,True,active,4.07
+53,5,Prime Goods Frozen Berries,Prime Goods,12 oz,pack,540034427145,True,active,4.77
+54,6,Homestyle Sparkling Water,Homestyle,8 pack,case,509116636460,False,active,5.19
+55,7,Golden Farm Lotion,Golden Farm,12 oz,bottle,204934110625,False,active,7.22
+56,8,Homestyle Flour,Homestyle,5 lb,bag,551496545441,False,active,6.59
+57,9,Urban Pantry Popcorn,Urban Pantry,3 count,box,441881158100,False,active,4.15
+58,10,Metro Select Cod Fillet,Metro Select,1 lb,lb,631101638339,True,active,11.09
+59,11,Golden Farm Bleach,Golden Farm,32 oz,bottle,408218044268,False,active,4.6
+60,12,Value Fresh Mac and Cheese,Value Fresh,12 oz,container,825544892360,True,active,4.85
+61,1,Classic Kitchen Bananas,Classic Kitchen,each,each,483711625145,True,seasonal,0.72
+62,2,Golden Farm Whole Milk,Golden Farm,0.5 gallon,gallon,912358165924,True,active,3.61
+63,3,Prime Goods Sausage,Prime Goods,12 oz,pack,600019373152,True,active,6.1
+64,4,Sunrise Cupcakes,Sunrise,4 count,box,726813572007,True,active,7.64
+65,5,Metro Select Frozen Pizza,Metro Select,12 inch,box,781845110195,True,seasonal,6.08
+66,6,Brooklyn Best Energy Drink,Brooklyn Best,4 pack,case,587938676045,False,active,8.85
+67,7,Nature Basket Deodorant,Nature Basket,2.6 oz,stick,222105549288,False,active,5.57
+68,8,Fresh Choice Oats,Fresh Choice,18 oz,canister,534738816383,False,active,3.01
+69,9,Daily Harvest Crackers,Daily Harvest,16 oz,box,253619596480,False,active,4.65
+70,10,Brooklyn Best Tuna Steak,Brooklyn Best,1 lb,lb,575654803776,True,active,14.03
+71,11,Queens Choice Sponges,Queens Choice,3 count,pack,987632508031,False,active,3.28
+72,12,Prime Goods Potato Salad,Prime Goods,24 oz,container,602591667934,True,seasonal,7.93
+73,1,Market Plus Potatoes,Market Plus,3 lb,bag,558015920905,True,active,3.8
+74,2,Metro Select Cream Cheese,Metro Select,8 oz,pack,605166001421,True,active,3.36
+75,3,Daily Harvest Ribeye Steak,Daily Harvest,1 lb,lb,746116310824,True,active,15.76
+76,4,Market Plus Dinner Rolls,Market Plus,12 count,pack,341976367027,True,active,3.14
+77,5,Queens Choice French Fries,Queens Choice,32 oz,bag,312643624935,True,active,6.44
+78,6,Daily Harvest Coffee,Daily Harvest,12 oz,bag,259355332042,False,active,6.68
+79,7,Sunrise Toothpaste,Sunrise,4 oz,tube,820520073075,False,seasonal,4.87
+80,8,Brooklyn Best Oats,Brooklyn Best,42 oz,canister,721715610769,False,active,7.03
+81,9,Pure Living Popcorn,Pure Living,3 count,box,791365064899,False,seasonal,3.87
+82,10,Brooklyn Best Crab Cakes,Brooklyn Best,2 count,pack,433424260229,True,active,8.4
+83,11,Urban Pantry Paper Towels,Urban Pantry,2 pack,pack,595904407913,False,active,6.1
+84,12,Golden Farm Wrap,Golden Farm,single,each,774697686009,True,active,7.38
+85,1,Brooklyn Best Blueberries,Brooklyn Best,6 oz,pack,992962570107,True,seasonal,3.63
+86,2,Queens Choice Greek Yogurt,Queens Choice,16 oz,tub,594186984574,True,active,6.45
+87,3,Queens Choice Chicken Breast,Queens Choice,1 lb,lb,291753655750,True,seasonal,8.11
+88,4,Queens Choice Croissants,Queens Choice,6 count,pack,772260083878,True,active,5.74
+89,5,Prime Goods French Fries,Prime Goods,16 oz,bag,952159175784,True,active,4.57
+90,6,Golden Farm Apple Juice,Golden Farm,64 oz,bottle,204495226137,False,active,5.2
+91,7,Nature Basket Body Wash,Nature Basket,18 oz,bottle,740300175457,False,seasonal,7.23
+92,8,Metro Select Pasta,Metro Select,16 oz,box,879944763170,False,active,2.61
+93,9,Pure Living Gummy Candy,Pure Living,5 oz,bag,834988277637,False,seasonal,2.96
+94,10,Queens Choice Tilapia,Queens Choice,1 lb,lb,118733909032,True,active,7.89
+95,11,Nature Basket Plastic Wrap,Nature Basket,100 sq ft,box,945883794233,False,active,3.44
+96,12,Metro Select Potato Salad,Metro Select,12 oz,container,422453968724,True,active,5.31
+97,1,Value Fresh Spinach,Value Fresh,5 oz,pack,269121724065,True,active,3.24
+98,2,Market Plus Half and Half,Market Plus,32 oz,oz,149124433247,True,active,5.0
+99,3,Brooklyn Best Chicken Wings,Brooklyn Best,1 lb,lb,411860132678,True,active,6.59
+100,4,Sunrise Muffins,Sunrise,6 count,pack,618764920062,True,seasonal,6.69
+101,5,Brooklyn Best Frozen Berries,Brooklyn Best,24 oz,pack,412542358733,True,active,9.87
+102,6,Sunrise Coffee,Sunrise,12 oz,bag,252920865098,False,active,8.55
+103,7,Queens Choice Hand Sanitizer,Queens Choice,8 oz,bottle,215681909956,False,active,3.2
+104,8,Urban Pantry Sugar,Urban Pantry,2 lb,bag,261118623175,False,active,3.88
+105,9,Pure Living Potato Chips,Pure Living,12 oz,bag,555381080979,False,active,5.49
+106,10,Prime Goods Tilapia,Prime Goods,1 lb,lb,190170799779,True,active,7.13
+107,11,Pure Living Sponges,Pure Living,3 count,pack,816034202609,False,active,2.77
+108,12,Classic Kitchen Coleslaw,Classic Kitchen,24 oz,container,618959874397,True,active,7.11
+109,1,Classic Kitchen Potatoes,Classic Kitchen,3 lb,bag,117520141303,True,seasonal,4.66
+110,2,Golden Farm Cheddar Cheese,Golden Farm,16 oz,pack,416866248678,True,active,5.92
+111,3,Prime Goods Beef Roast,Prime Goods,2 lb,lb,974622637873,True,seasonal,17.56
+112,4,Value Fresh Cookies,Value Fresh,8 oz,box,119482202674,True,active,4.79
+113,5,Prime Goods French Fries,Prime Goods,16 oz,bag,774316584253,True,active,4.13
+114,6,Homestyle Apple Juice,Homestyle,64 oz,bottle,193064274382,False,active,4.66
+115,7,Prime Goods Shampoo,Prime Goods,20 oz,bottle,619147005473,False,active,12.88
+116,8,Market Plus Pasta,Market Plus,16 oz,box,490911783800,False,active,1.97
+117,9,Sunrise Popcorn,Sunrise,3 count,box,909953107386,False,active,3.08
+118,10,Pure Living Mussels,Pure Living,2 lb,lb,291739347185,True,active,14.15
+119,11,Golden Farm Plastic Wrap,Golden Farm,100 sq ft,box,953478914707,False,active,3.58
+120,12,Sunrise Mac and Cheese,Sunrise,24 oz,container,443777368334,True,seasonal,9.96
+121,1,Urban Pantry Tomatoes,Urban Pantry,each,each,924791005825,True,active,1.04
+122,2,Pure Living Eggs,Pure Living,6 count,pack,463593597644,True,seasonal,4.09
+123,3,Classic Kitchen Chicken Wings,Classic Kitchen,2 lb,lb,917761866683,True,active,10.69
+124,4,Brooklyn Best Dinner Rolls,Brooklyn Best,12 count,pack,648433258112,True,seasonal,4.59
+125,5,Golden Farm Frozen Vegetables,Golden Farm,16 oz,bag,763274407218,True,active,3.47
+126,6,Nature Basket Coffee,Nature Basket,32 oz,bottle,424961173652,False,seasonal,3.7
+127,7,Metro Select Lotion,Metro Select,20 oz,bottle,588293821738,False,active,7.2
+128,8,Value Fresh Cereal,Value Fresh,12 oz,box,581028394033,False,seasonal,3.68
+129,9,Nature Basket Granola Bars,Nature Basket,6 count,box,982671983350,False,seasonal,3.28
+130,10,Fresh Choice Cod Fillet,Fresh Choice,1 lb,lb,173556597858,True,active,11.16
+131,11,Value Fresh Plastic Wrap,Value Fresh,200 sq ft,box,843688354108,False,active,5.73
+132,12,Value Fresh Ham Slices,Value Fresh,16 oz,pack,680411980930,True,active,7.93
+133,1,Daily Harvest Bananas,Daily Harvest,2 lb,lb,228679453809,True,seasonal,1.51
+134,2,Classic Kitchen Eggs,Classic Kitchen,12 count,pack,231261384811,True,active,5.6
+135,3,Value Fresh Chicken Wings,Value Fresh,1 lb,lb,861435754729,True,active,5.36
+136,4,Brooklyn Best Bagels,Brooklyn Best,6 count,pack,588395204803,True,active,4.99
+137,5,Queens Choice Frozen Waffles,Queens Choice,10 count,box,420156188169,True,active,4.41
+138,6,Sunrise Bottled Water,Sunrise,16.9 oz,bottle,659898345574,False,active,1.98
+139,7,Daily Harvest Shampoo,Daily Harvest,20 oz,bottle,644560505739,False,active,10.31
+140,8,Brooklyn Best Oats,Brooklyn Best,18 oz,canister,244103226328,False,seasonal,3.12
+141,9,Market Plus Gummy Candy,Market Plus,10 oz,bag,627073531786,False,active,5.03
+142,10,Metro Select Shrimp,Metro Select,2 lb,bag,452068690122,True,active,18.25
+143,11,Metro Select Bleach,Metro Select,32 oz,bottle,708941592508,False,active,4.53
+144,12,Prime Goods Potato Salad,Prime Goods,12 oz,container,163858482694,True,active,4.6
+145,1,Nature Basket Tomatoes,Nature Basket,each,each,881403749000,True,active,1.45
+146,2,Pure Living Cheddar Cheese,Pure Living,16 oz,pack,375216607657,True,active,5.93
+147,3,Value Fresh Ham,Value Fresh,8 oz,pack,201075518511,True,active,5.77
+148,4,Metro Select Cupcakes,Metro Select,6 count,box,785729036205,True,active,9.52
+149,5,Pure Living Ice Cream,Pure Living,16 oz,tub,133774683071,True,active,6.36
+150,6,Homestyle Lemonade,Homestyle,59 oz,bottle,942719005116,False,active,5.23

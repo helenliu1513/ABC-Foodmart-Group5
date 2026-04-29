@@ -1,0 +1,76 @@
+employee_id,store_id,department_id,first_name,last_name,email_address,phone_number,hire_date,employment_status,job_title,hourly_rate,annual_salary
+1,1,2,Sandra,Cunningham,sandra.cunningham.1@abcfoodmart.com,718-555-8933,2025-05-01,active,Store Manager,,98188.16
+2,1,5,Cynthia,Weber,cynthia.weber.2@abcfoodmart.com,718-555-6231,2023-12-30,leave,Assistant Manager,,67873.37
+3,1,6,Michelle,Burton,michelle.burton.3@abcfoodmart.com,718-555-7070,2021-04-24,active,Department Manager,,54615.32
+4,1,4,Edward,Jones,edward.jones.4@abcfoodmart.com,718-555-5382,2025-03-01,active,Department Manager,,61329.45
+5,1,3,Scott,Turner,scott.turner.5@abcfoodmart.com,718-555-5754,2024-06-06,inactive,Department Manager,,53936.23
+6,1,7,Joshua,Brown,joshua.brown.6@abcfoodmart.com,718-555-3616,2023-10-18,leave,Department Manager,,60362.69
+7,1,1,William,Collins,william.collins.7@abcfoodmart.com,718-555-4110,2021-11-28,active,Department Manager,,66422.57
+8,1,5,Shannon,Brown,shannon.brown.8@abcfoodmart.com,718-555-9171,2023-08-01,active,Department Manager,,62294.5
+9,1,2,Marie,Jones,marie.jones.9@abcfoodmart.com,718-555-7442,2025-10-16,active,Department Manager,,53800.98
+10,1,2,Michelle,Wyatt,michelle.wyatt.10@abcfoodmart.com,718-555-6781,2020-09-01,active,Cashier,16.86,
+11,1,4,Christina,Hunter,christina.hunter.11@abcfoodmart.com,718-555-8710,2023-04-30,active,Cashier,18.39,
+12,1,7,Steven,Spencer,steven.spencer.12@abcfoodmart.com,718-555-3194,2023-02-02,active,Cashier,16.43,
+13,1,7,Latoya,Huang,latoya.huang.13@abcfoodmart.com,718-555-1741,2024-08-12,active,Stock Associate,19.02,
+14,1,5,Shannon,Pacheco,shannon.pacheco.14@abcfoodmart.com,718-555-5728,2020-12-12,active,Cashier,16.78,
+15,1,4,Denise,Morris,denise.morris.15@abcfoodmart.com,718-555-5582,2021-06-15,active,Stock Associate,20.82,
+16,2,2,Thomas,Hernandez,thomas.hernandez.16@abcfoodmart.com,718-555-8761,2023-07-19,active,Store Manager,,106407.76
+17,2,5,Bryan,Garcia,bryan.garcia.17@abcfoodmart.com,718-555-3290,2022-06-22,leave,Assistant Manager,,82862.63
+18,2,5,Rachel,Cooper,rachel.cooper.18@abcfoodmart.com,718-555-7438,2024-02-03,active,Department Manager,,58370.6
+19,2,7,Jennifer,Wagner,jennifer.wagner.19@abcfoodmart.com,718-555-6511,2023-06-24,inactive,Department Manager,,57984.69
+20,2,4,Gerald,Wright,gerald.wright.20@abcfoodmart.com,718-555-5911,2023-04-19,active,Department Manager,,62646.8
+21,2,1,Samuel,Gonzales,samuel.gonzales.21@abcfoodmart.com,718-555-2795,2022-12-21,active,Department Manager,,59367.16
+22,2,6,Alexandra,Moore,alexandra.moore.22@abcfoodmart.com,718-555-1436,2023-12-25,active,Department Manager,,67935.1
+23,2,3,Nathan,Campbell,nathan.campbell.23@abcfoodmart.com,718-555-4728,2024-09-05,active,Department Manager,,71341.41
+24,2,2,Riley,Morgan,riley.morgan.24@abcfoodmart.com,718-555-9589,2024-02-29,active,Department Manager,,61608.98
+25,2,7,Carla,Mccormick,carla.mccormick.25@abcfoodmart.com,718-555-3421,2025-03-29,active,Cashier,19.36,
+26,2,1,Deborah,Jones,deborah.jones.26@abcfoodmart.com,718-555-2800,2021-09-14,active,Cashier,18.29,
+27,2,3,Cody,Gregory,cody.gregory.27@abcfoodmart.com,718-555-7765,2024-07-04,active,Stock Associate,19.09,
+28,2,5,Justin,Cummings,justin.cummings.28@abcfoodmart.com,718-555-8726,2025-07-12,inactive,Cashier,19.1,
+29,2,6,Diane,Escobar,diane.escobar.29@abcfoodmart.com,718-555-3262,2023-07-18,active,Cashier,16.25,
+30,2,3,Morgan,Cook,morgan.cook.30@abcfoodmart.com,718-555-8837,2023-08-01,active,Cashier,19.99,
+31,3,3,Brandi,Thomas,brandi.thomas.31@abcfoodmart.com,718-555-4684,2025-06-16,active,Store Manager,,101742.6
+32,3,6,Michael,Ponce,michael.ponce.32@abcfoodmart.com,718-555-9011,2025-06-26,active,Assistant Manager,,69145.56
+33,3,6,Holly,Myers,holly.myers.33@abcfoodmart.com,718-555-5480,2025-06-11,active,Department Manager,,63209.75
+34,3,7,Brooke,Hurley,brooke.hurley.34@abcfoodmart.com,718-555-7220,2025-08-05,active,Department Manager,,65532.44
+35,3,3,Kyle,Bennett,kyle.bennett.35@abcfoodmart.com,718-555-3399,2025-06-12,active,Department Manager,,71092.18
+36,3,4,Latasha,Li,latasha.li.36@abcfoodmart.com,718-555-2294,2025-07-11,leave,Department Manager,,71106.27
+37,3,1,Elizabeth,Calderon,elizabeth.calderon.37@abcfoodmart.com,718-555-8849,2025-05-04,active,Department Manager,,65119.44
+38,3,5,Joanne,Jennings,joanne.jennings.38@abcfoodmart.com,718-555-5450,2025-03-26,active,Department Manager,,62771.56
+39,3,2,Alicia,Lucas,alicia.lucas.39@abcfoodmart.com,718-555-4920,2025-05-19,active,Department Manager,,66817.82
+40,3,5,Rodney,Cox,rodney.cox.40@abcfoodmart.com,718-555-4814,2025-02-10,active,Stock Associate,18.13,
+41,3,3,Michael,White,michael.white.41@abcfoodmart.com,718-555-2647,2025-03-26,active,Cashier,18.87,
+42,3,5,Jason,Meza,jason.meza.42@abcfoodmart.com,718-555-3587,2025-08-11,active,Cashier,19.91,
+43,3,4,Tom,Perez,tom.perez.43@abcfoodmart.com,718-555-4267,2025-06-11,active,Cashier,17.91,
+44,3,6,Devin,Jones,devin.jones.44@abcfoodmart.com,718-555-2465,2025-05-13,active,Stock Associate,17.3,
+45,3,6,Megan,Garcia,megan.garcia.45@abcfoodmart.com,718-555-1611,2025-04-14,active,Stock Associate,21.25,
+46,4,3,Kelli,Conley,kelli.conley.46@abcfoodmart.com,718-555-9901,2025-08-22,active,Store Manager,,93536.85
+47,4,2,Nicole,Johnson,nicole.johnson.47@abcfoodmart.com,718-555-8668,2025-06-18,active,Assistant Manager,,82021.19
+48,4,6,Matthew,Miranda,matthew.miranda.48@abcfoodmart.com,718-555-3662,2025-10-14,active,Department Manager,,54252.94
+49,4,3,David,Bennett,david.bennett.49@abcfoodmart.com,718-555-4050,2025-04-13,active,Department Manager,,57145.3
+50,4,1,Francis,Guerra,francis.guerra.50@abcfoodmart.com,718-555-4164,2025-05-24,active,Department Manager,,67815.35
+51,4,5,Kellie,Lamb,kellie.lamb.51@abcfoodmart.com,718-555-7643,2025-07-28,active,Department Manager,,64774.52
+52,4,2,Gabriel,Kim,gabriel.kim.52@abcfoodmart.com,718-555-2562,2025-05-27,leave,Department Manager,,53734.76
+53,4,4,Robert,Rhodes,robert.rhodes.53@abcfoodmart.com,718-555-5064,2025-04-11,active,Department Manager,,61549.08
+54,4,7,John,Wallace,john.wallace.54@abcfoodmart.com,718-555-5374,2025-07-03,active,Department Manager,,56710.43
+55,4,6,Justin,Goodman,justin.goodman.55@abcfoodmart.com,718-555-5285,2025-09-24,active,Stock Associate,19.86,
+56,4,2,Shane,Ferguson,shane.ferguson.56@abcfoodmart.com,718-555-2936,2025-08-07,active,Stock Associate,17.31,
+57,4,4,Kyle,Stokes,kyle.stokes.57@abcfoodmart.com,718-555-6095,2025-10-03,active,Cashier,18.74,
+58,4,3,Taylor,Conley,taylor.conley.58@abcfoodmart.com,718-555-4618,2025-06-05,leave,Stock Associate,18.84,
+59,4,4,Micheal,Valentine,micheal.valentine.59@abcfoodmart.com,718-555-7121,2025-07-25,active,Stock Associate,17.77,
+60,4,4,Tracey,Murray,tracey.murray.60@abcfoodmart.com,718-555-4578,2025-10-22,active,Cashier,19.03,
+61,5,2,Juan,Reyes,juan.reyes.61@abcfoodmart.com,718-555-9525,2025-08-26,active,Store Manager,,94843.53
+62,5,2,Allison,Burch,allison.burch.62@abcfoodmart.com,718-555-9008,2025-07-12,inactive,Assistant Manager,,79338.36
+63,5,5,Lisa,Solis,lisa.solis.63@abcfoodmart.com,718-555-1911,2025-08-28,active,Department Manager,,60909.65
+64,5,1,Devon,Wright,devon.wright.64@abcfoodmart.com,718-555-1945,2025-09-10,active,Department Manager,,60308.49
+65,5,6,Danielle,Sawyer,danielle.sawyer.65@abcfoodmart.com,718-555-1356,2025-08-20,active,Department Manager,,68138.31
+66,5,2,Angela,Garcia,angela.garcia.66@abcfoodmart.com,718-555-4570,2025-09-13,active,Department Manager,,52060.31
+67,5,3,Meghan,Rosales,meghan.rosales.67@abcfoodmart.com,718-555-2044,2025-09-08,leave,Department Manager,,60473.95
+68,5,7,Justin,Hines,justin.hines.68@abcfoodmart.com,718-555-2130,2025-10-28,active,Department Manager,,70691.66
+69,5,4,Joshua,Whitehead,joshua.whitehead.69@abcfoodmart.com,718-555-3948,2025-10-07,active,Department Manager,,57741.81
+70,5,6,Dylan,Kim,dylan.kim.70@abcfoodmart.com,718-555-7887,2025-08-17,leave,Stock Associate,21.89,
+71,5,4,Stacey,Walker,stacey.walker.71@abcfoodmart.com,718-555-7184,2025-08-18,active,Stock Associate,19.24,
+72,5,6,Shannon,Bailey,shannon.bailey.72@abcfoodmart.com,718-555-3178,2025-09-22,inactive,Cashier,19.5,
+73,5,1,Anthony,Brown,anthony.brown.73@abcfoodmart.com,718-555-9802,2025-08-20,active,Cashier,16.71,
+74,5,6,Wayne,Young,wayne.young.74@abcfoodmart.com,718-555-1056,2025-10-05,active,Stock Associate,21.89,
+75,5,3,Virginia,Brooks,virginia.brooks.75@abcfoodmart.com,718-555-9920,2025-08-24,active,Cashier,17.85,

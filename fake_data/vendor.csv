@@ -1,0 +1,21 @@
+vendor_id,vendor_name,contact_name,phone_number,email_address,vendor_address,vendor_status
+1,North Coast Foods,Eric Clark,800-555-5135,contact1@northcoastfoods.com,"Dallas, TX",active
+2,Tri-State Deli Goods,David Murphy,718-555-2899,contact2@tri-statedeligoods.com,"Long Island City, NY",active
+3,Prime Retail Wholesale,Paul Thompson,800-555-9431,contact3@primeretailwholesale.com,"Columbus, OH",active
+4,Brooklyn Fresh Supply,Michael Mason,718-555-9889,contact4@brooklynfreshsupply.com,"Brooklyn, NY",active
+5,Urban Seafood LLC,Renee Jones,718-555-7770,contact5@urbanseafoodllc.com,"Jersey City, NJ",active
+6,Atlantic Meat Co,Amanda Smith,718-555-4073,contact6@atlanticmeatco.com,"Brooklyn, NY",active
+7,PureCare Distribution,Shannon Johnston,800-555-6927,contact7@purecaredistribution.com,"Philadelphia, PA",active
+8,East River Bakery Supply,Michelle Butler,718-555-9167,contact8@eastriverbakerysupply.com,"Bronx, NY",active
+9,Local Pantry Wholesale,Alex Nguyen,718-555-1845,contact9@localpantrywholesale.com,"Jersey City, NJ",active
+10,City Beverage Source,Lisa Collier,718-555-5375,contact10@citybeveragesource.com,"Queens, NY",active
+11,FreshLine National,Anita Richard,800-555-3146,contact11@freshlinenational.com,"Philadelphia, PA",active
+12,Continental Goods,Kevin Warren,800-555-8178,contact12@continentalgoods.com,"Dallas, TX",active
+13,Queens Produce Hub,Eric Morgan,718-555-2989,contact13@queensproducehub.com,"Jersey City, NJ",active
+14,BluePeak Wholesale,Christopher Dixon,800-555-4920,contact14@bluepeakwholesale.com,"Chicago, IL",active
+15,Harbor Frozen Foods,Jordan Bullock,718-555-6091,contact15@harborfrozenfoods.com,"Queens, NY",active
+16,National Food Distributors,Nicholas Fuentes,800-555-1224,contact16@nationalfooddistributors.com,"Philadelphia, PA",active
+17,United Beverage Group,Cynthia Thomas,800-555-7684,contact17@unitedbeveragegroup.com,"Philadelphia, PA",active
+18,American Grocery Supply,Lance Wolf,800-555-4681,contact18@americangrocerysupply.com,"Chicago, IL",active
+19,Standard Household Supply,Cassandra Mejia,800-555-8560,contact19@standardhouseholdsupply.com,"Chicago, IL",active
+20,Metro Dairy Partners,Paul Wolf MD,718-555-3522,contact20@metrodairypartners.com,"Brooklyn, NY",active
